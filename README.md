@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SiyoSiyaSiyo
+- 👀 I’m interested in sport, chess and reading, among other things.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on pretty much everything.
+- 📫 How to reach me ...
