@@ -1,11 +1,4 @@
 - 👋 Hi, I’m @SiyoSiyaSiyo
-- 👀 I’m interested in Bouldering
-- 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on many projects in the future.
+- 🌱 I’m currently pursuing my Bachelor of Science in Computer Science at the University of Constance
+- 💞️ If you like my work, feel free to contact me for collaborations.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
-<!---
-SiyoSiyaSiyo/SiyoSiyaSiyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
