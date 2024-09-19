@@ -2,7 +2,6 @@
 - 👀 I’m interested in Bouldering
 - 🌱 I’m currently learning IT
 - 💞️ I’m looking to collaborate on many projects in the future.
-- 📫 How to reach me DISCORD: trueyeetus. Just say it's for github
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
