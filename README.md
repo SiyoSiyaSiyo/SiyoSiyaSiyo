@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @SiyoSiyaSiyo
-- 🌱 I’m currently pursuing my Bachelor of Science in Computer Science at the University of Constance
+- 🌱 I’m currently pursuing my Bachelor of Science in Computer Science at the University of Konstanz
 - 💞️ If you like my work, feel free to contact me for collaborations.
-- 😄 Pronouns: He/Him
